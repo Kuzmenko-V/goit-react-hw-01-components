@@ -1,0 +1,13 @@
+.transaction-history {
+  border: 1px solid #000000;
+  width: 400px;
+  border-spacing: 0;
+}
+.transaction-history th {
+  background-color: aqua;
+  border: 1px solid #000000;
+}
+
+.transaction-history td {
+  border: 1px solid #000000;
+}
